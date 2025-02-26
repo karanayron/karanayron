@@ -11,8 +11,8 @@
 
 # 🌐 Connect with me:
 <p align="left">
-<a href="https://twitter.com/karanayron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karanayron"width="100" height="90"/></a>
 <a href="https://linkedin.com/in/karankr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karankr"width="100" height="90"/></a>
+<a href="https://twitter.com/karanayron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karanayron"width="100" height="90"/></a>
 <a href="https://fb.com/karnayron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karnayron"width="100" height="90"/></a>
 <a href="https://instagram.com/karnayron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karnayron"width="100" height="90"/></a>
 <a href="https://www.leetcode.com/karanayron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karanayron"width="100" height="90"/></a>
